@@ -1,0 +1,19 @@
+
+.chapter{
+    display: flex;
+    justify-content:space-around;
+   
+}
+.chapter>p{
+    font-size:30px;
+    border: 2px;
+    background-color: darkorange;
+    /* padding:10px; */
+    border-radius:80px;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
